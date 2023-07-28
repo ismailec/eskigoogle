@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+#google-logo {
+    margin-top: 290px
+}
+
+#search-form {
+    margin-top: 30px
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 13px;
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+background-color: aquamarine;
+padding: 10px;
+text-align: center;
+}
